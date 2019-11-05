@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trianinfo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_settings1">Enter data</string>
+
+
+    <string-array name="planets_array">
+        <item>pallavan</item>
+        <item>chennai express</item>
+        <item>Mumbai Express</item>
+        <item>varanvaran poochandi</item>
+        <item>ngk</item>
+        <item>bigiley</item>
+    </string-array>
+</resources>
